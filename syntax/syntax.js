@@ -1,6 +1,6 @@
-var fullName = 'Văn Quân';
-var age = 22;
-var hasHobbies = true;
+const fullName = 'Văn Quân'; //inchangeable
+let age = 22;  //changeable 
+const hasHobbies = true; //inchangeable
 
 function summarizeUser(userName, userAge, userHasHobby) {
     return (
