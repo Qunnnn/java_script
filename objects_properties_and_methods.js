@@ -25,3 +25,4 @@ const person = {
 }
 
 person.greet();
+console.log(person);
